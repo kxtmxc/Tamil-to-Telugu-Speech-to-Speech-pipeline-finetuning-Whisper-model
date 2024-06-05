@@ -11,26 +11,27 @@ The growing demand for effective cross-lingual communication highlights the impo
 
 ## Methodology
 ### Speech-to-Text (STT)
-![STT Architecture](STT.jpeg)
+![STT Architecture](images/STT.jpeg)
 
 ### Text Translation (TT)
-![TT Architecture](T2T_arch.png)
+![TT Architecture](images/T2T_arch.png)
 
 ### Text-to-Speech (TTS)
-![TTS Architecture](TTS.jpeg)
+![TTS Architecture](images/TTS.jpeg)
 
 ## Pipeline
-![Pipeline](Pipeline.jpeg)
+![Pipeline](images/Pipeline.jpeg)
 
 ## Results
 ### Speech-to-Text (STT) Results
-![STT Results](Result%20of%20STT.jpg)
+![STT Results](images/Result%20of%20STT.jpg)
 
 ### Text Translation (TT) Results
-![TT Results](Results%20of%20TTT.jpg)
+![TT Results](images/Results%20of%20TTT.jpg)
 
 ### Text-to-Speech (TTS) Results
-![TTS Results](Results%20of%20TTS.jpg)
+![TTS Results](images/Results%20of%20TTS.jpg)
+
 
 ## Conclusion
 The development of a robust Tamil-to-Telugu Speech-to-Speech (S2S) translation system has shown significant promise in overcoming language barriers and facilitating effective multilingual communication. By leveraging the Whisper ASR model for Speech-to-Text (STT), we achieved a notable reduction in Word Error Rate (WER), demonstrating the model's efficiency in handling Tamil speech inputs. The transformer-based Text Translation (TT) model ensured accurate and contextually appropriate translations from Tamil to Telugu, achieving a high BLEU score of 0.57 and a Cosine Similarity of 0.69597. The final Text-to-Speech (TTS) phase, utilizing the VITS-based MMS model, produced natural and intelligible Telugu speech, closely approximating human speech quality with a MOS score of 4.43.
