@@ -11,7 +11,7 @@ The growing demand for effective cross-lingual communication highlights the impo
 
 ## Methodology
 ### Speech-to-Text (STT)
-![STT Architecture](images/STT.jpeg)
+![STT Architecture](Images/STT.jpeg)
 
 ### Text Translation (TT)
 ![TT Architecture](images/T2T_arch.png)
