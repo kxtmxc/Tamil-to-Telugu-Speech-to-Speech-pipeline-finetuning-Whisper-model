@@ -14,23 +14,23 @@ The growing demand for effective cross-lingual communication highlights the impo
 ![STT Architecture](Images/STT.jpeg)
 
 ### Text Translation (TT)
-![TT Architecture](images/T2T_arch.png)
+![TT Architecture](Images/T2T_arch.png)
 
 ### Text-to-Speech (TTS)
-![TTS Architecture](images/TTS.jpeg)
+![TTS Architecture](Images/TTS.jpeg)
 
 ## Pipeline
-![Pipeline](images/Pipeline.jpeg)
+![Pipeline](Images/Pipeline.jpeg)
 
 ## Results
 ### Speech-to-Text (STT) Results
-![STT Results](images/Result%20of%20STT.jpg)
+![STT Results](Images/Result%20of%20STT.jpg)
 
 ### Text Translation (TT) Results
-![TT Results](images/Results%20of%20TTT.jpg)
+![TT Results](Images/Results%20of%20TTT.jpg)
 
 ### Text-to-Speech (TTS) Results
-![TTS Results](images/Results%20of%20TTS.jpg)
+![TTS Results](Images/Results%20of%20TTS.jpg)
 
 
 ## Conclusion
